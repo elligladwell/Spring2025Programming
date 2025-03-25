@@ -1,6 +1,6 @@
 #Name: Elli Gladwell
 #UID: U1335224
-#Source Statement: ChatGPT, W3 Schools, ...
+#Source Statement: the resources I used for this project were ChatGPT and a friend of mine. My friend graduated in Computer Science so he was a lot of help. I used ChatGPT mostly to generate the books I used as opposed to thinking of them all myself. My friend was the greatest help to me, though. I feel that in the past assignments I have been mostly successful because they give step-by-step instructions in tandem with the textbook. Trying to remember everything and apply it on my own proved very difficult and I needed my friend to walk me through a lot of it.
 import csv
 
 #A simple function to display the Main Menu
